@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJF5G5vPbc1r/hIjIkefeTGdXKs5Gt0OKUrdoZT37YxgsN+bfJQpLQJ5ok3za3xKf0YPveKSTyDqWTLuEJ5JBw==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Desktop/programming/language-specific/C#/Learn_C#/1/01_02/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
